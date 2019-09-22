@@ -17,3 +17,14 @@ My biggest goal here is to create a log of what I'm learning and how I would exp
             + I would like to have a user login with their personal (verified/invited) account and
               be able to view what reminders they have scheduled... ex; take out the trash
             
+
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+
+* unordered list, this is?  
