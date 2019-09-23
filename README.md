@@ -28,3 +28,7 @@ My biggest goal here is to create a log of what I'm learning and how I would exp
 
 
 * unordered list, this is?  
+
+
+* it would be cool to have a CSS playground for myself..
+*  - what if I could add a few HTML blocks and then style them live to see what they might look like on a page?
